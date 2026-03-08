@@ -24,7 +24,7 @@ function About() {
             { label: "Degree", value: null, custom: <span>Computer Science Bachelor, 2023<br/>Engineering – Blockchain, 2026</span> },
             { label: "Languages", value: "French · English · Chinese A2" },
             { label: "GitHub", value: "github.com/alineuh", link: "https://github.com/alineuh" },
-            { label: "Chess", value: "🏆 8th in France, 2017" },
+            { label: "Chess", value: "8th in France, 2017" },
           ].map(({ label, value, link, custom }) => (
             <div key={label} style={{
               display: "flex",

@@ -1,7 +1,7 @@
 function Contact() {
   return (
     <section id="contact">
-      <p className="section-tag">// 06 — contact</p>
+      <p className="section-tag">// 07 — contact</p>
       <h2 className="section-title">Get in <span>Touch</span></h2>
 
       <div style={{

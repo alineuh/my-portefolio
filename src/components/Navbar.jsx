@@ -22,7 +22,7 @@ function Navbar() {
       </span>
 
       <ul style={{ display: "flex", gap: "2.5rem", listStyle: "none" }}>
-        {["about me", "education", "skills", "projects", "experience", "contact"].map(s => (
+        {["about me", "education", "skills", "projects", "experience", "interests", "contact"].map(s => (
           <li key={s}>
             <a href={`#${s}`} style={{
               fontFamily: "var(--font-mono)",
